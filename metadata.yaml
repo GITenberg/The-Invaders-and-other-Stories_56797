@@ -1,0 +1,37 @@
+_repo: The-Invaders-and-other-Stories_56797
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Dole, Nathan Haskell
+    alias: Dole, Nathen Haskell
+    birthdate: 1852
+    deathdate: 1935
+    gutenberg_agent_id: '36286'
+    url: http://www.gutenberg.org/2009/agents/36286
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Tolstoi, Leo
+    - Tolstoï, Léon
+    - Tolstoy, Graf Leo
+    - Tolstoy, Lev N.
+    - Толстой, Лев Николаевич
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+description: ''
+gutenberg_issued: '2018-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56797'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Invaders and other Stories
+url: http://www.gutenberg.org/ebooks/56797
